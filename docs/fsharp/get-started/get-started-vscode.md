@@ -63,7 +63,7 @@ Ionide automatically detects the compiler and tools, but if it doesn't for some 
 
 ### macOS
 
-On macOS, Ionide uses [Mono](http://www.mono-project.com).  The easiest way to install Mono on macOS is via Homebrew.  Simply type the following into your terminal:
+On macOS, Ionide uses [Mono](http://www.mono-project.com).  The easiest way to install Mono on macOS is via [Homebrew](https://brew.sh/). Once Homebrew has been installed you simply type the following into your terminal:
 
 ```
 brew install mono
